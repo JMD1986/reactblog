@@ -18,7 +18,7 @@ class Navbar extends Component {
               <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                   <ul className="nav navbar-nav navbar-right">
                       <li>
-                          <a href="index.html">Home</a>
+                          <a href="index.html">home</a>
                       </li>
                       <li>
                           <a href="about.html">About</a>
